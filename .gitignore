@@ -26,3 +26,9 @@ out/
 /.nb-gradle/
 ### VS Code ###
 .vscode/
+
+# 커밋 실습 3
+
+# git status 빨간줄
+# git add .gitignore 커밋 전
+# git commit -m "test" 
